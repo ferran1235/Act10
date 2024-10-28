@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.markdown
+- name: Blog
+  link: /blog.html
+- name: Serveis
+  link: /serveis.markdown
+- name: Index
+  link: /index.markdown
